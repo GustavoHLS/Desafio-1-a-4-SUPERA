@@ -1,2 +1,2 @@
-# Desafio-1-a-4-SUPERA
+# Desafios SUPERA
 Repositorio para resolução de 4 Desafios da empresa SUPERA
